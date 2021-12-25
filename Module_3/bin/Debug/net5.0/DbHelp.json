@@ -1,0 +1,52 @@
+[
+  {
+    "portFolioid": 1,
+    "StockList": [
+      {
+        "StockName": "HDFC",
+        "StockCount": 44
+      },
+      {
+        "StockName": "AXIS",
+        "StockCount": 66
+      }
+
+    ],
+    "MutualFundList": [
+      {
+        "MutualFundName": "HDFC",
+        "MutualFundUnits": 19
+      },
+      {
+        "MutualFundName": "ICICI",
+        "MutualFundUnits": 667
+      }
+
+    ]
+  },
+  {
+    "portFolioid": 3,
+    "StockList": [
+      {
+        "StockName": "HDFC",
+        "StockCount": 2
+      },
+      {
+        "StockName": "AXIS",
+        "StockCount": 1
+      }
+
+    ],
+    "MutualFundList": [
+      {
+        "MutualFundName": "HDFC",
+        "MutualFundUnits": 2
+      },
+      {
+        "MutualFundName": "ICICI",
+        "MutualFundUnits": 2
+      }
+
+    ]
+  }
+]
