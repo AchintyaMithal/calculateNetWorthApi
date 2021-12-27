@@ -4,22 +4,79 @@
     "StockList": [
       {
         "StockName": "HDFC",
-        "StockCount": 44
+        "StockCount": 1
       },
       {
         "StockName": "AXIS",
-        "StockCount": 66
+        "StockCount": 5
+      },
+      {
+        "StockName": "TCS",
+        "StockCount": 2
+      },
+      {
+        "StockName": "INFOSYS",
+        "StockCount": 5
       }
 
     ],
     "MutualFundList": [
       {
         "MutualFundName": "HDFC",
-        "MutualFundUnits": 19
+        "MutualFundUnits": 5
       },
       {
         "MutualFundName": "ICICI",
-        "MutualFundUnits": 667
+        "MutualFundUnits": 8
+      },
+      {
+        "MutualFundName": "PARAG",
+        "MutualFundUnits": 10
+      },
+      {
+        "MutualFundName": "PAREKH",
+        "MutualFundUnits": 5
+      }
+
+    ]
+  },
+  {
+    "portFolioid": 2,
+    "StockList": [
+      {
+        "StockName": "HDFC",
+        "StockCount": 4
+      },
+      {
+        "StockName": "AXIS",
+        "StockCount": 6
+      },
+      {
+        "StockName": "TCS",
+        "StockCount": 2
+      },
+      {
+        "StockName": "INFOSYS",
+        "StockCount": 4
+      }
+
+    ],
+    "MutualFundList": [
+      {
+        "MutualFundName": "HDFC",
+        "MutualFundUnits": 1
+      },
+      {
+        "MutualFundName": "ICICI",
+        "MutualFundUnits": 4
+      },
+      {
+        "MutualFundName": "PARAG",
+        "MutualFundUnits": 2
+      },
+      {
+        "MutualFundName": "SBI",
+        "MutualFundUnits": 5
       }
 
     ]
@@ -34,6 +91,14 @@
       {
         "StockName": "AXIS",
         "StockCount": 1
+      },
+      {
+        "StockName": "TCS",
+        "StockCount": 3
+      },
+      {
+        "StockName": "INFOSYS",
+        "StockCount": 2
       }
 
     ],
@@ -45,6 +110,18 @@
       {
         "MutualFundName": "ICICI",
         "MutualFundUnits": 2
+      },
+      {
+        "MutualFundName": "PARAG",
+        "MutualFundUnits": 1
+      },
+      {
+        "MutualFundName": "SBI",
+        "MutualFundUnits": 5
+      },
+      {
+        "MutualFundName": "PAREKH",
+        "MutualFundUnits": 5
       }
 
     ]
