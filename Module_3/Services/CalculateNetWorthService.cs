@@ -49,7 +49,7 @@ namespace Module_3.Services
             {
                 int quantity = portFolio.StockList.FirstOrDefault(x => x.StockName == stock.StockName).StockCount;
                 string stockName = stock.StockName;
-                string uri = $"http://20.62.226.198/api/DailySharePrice/{stockName}";
+                string uri = $"http://52.226.252.231/api/DailySharePrice/{stockName}";
 
                 var response = client.GetAsync(uri).Result;
                 if(response != null)
@@ -65,7 +65,7 @@ namespace Module_3.Services
                 //implement httpclient here for mutual fund microservice
                 int quantity = portFolio.MutualFundList.FirstOrDefault(x => x.MutualFundName == mutualFund.MutualFundName).MutualFundUnits;
                 var mutualFundName = mutualFund.MutualFundName;
-                string uri = $"http://52.191.91.7/api/MutualFundNav/{mutualFundName}";
+                string uri = $"http://52.226.234.194/api/MutualFundNav/{mutualFundName}";
                 var response = client.GetAsync(uri).Result;
                 if(response != null)
                 {
